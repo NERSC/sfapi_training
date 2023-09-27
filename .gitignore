@@ -162,3 +162,4 @@ cython_debug/
 # Don't upload any stray key files
 *.json
 *.pem
+*.jwk
