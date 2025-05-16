@@ -19,7 +19,7 @@ module load python
 pip install sfapi_client
 ```
 
-Then open [jupyter.nersc.gov](jupyter.nersc.gov) and navigate to the `sfapi_training/SF-API-Training-NERSC-May-2025` on the right sidebar.
+Then open [jupyter.nersc.gov](jupyter.nersc.gov) and navigate to the `sfapi_training/SF-API-Training-NERSC-May-2025` on the left sidebar.
 
 ### Running demos on your local machine
 
@@ -49,4 +49,4 @@ jupyter-notebook
 ### Following along with the demos
 
 For the training we'll be writing code in the [sfapi_client_demo](sfapi_client_demo.ipynb) notebook.
-If you want to see the pre-written code and follow along there, you can open the [sfapi_client_demo](sfapi_client_demo_completed.ipynb).
+If you want to see the pre-written code and follow along there, you can open the [sfapi_client_demo_completed](sfapi_client_demo_completed.ipynb).
